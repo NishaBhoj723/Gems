@@ -1,0 +1,47 @@
+.off{
+    text-align: center;
+    font-weight: bolder; 
+}
+
+.admin{
+
+      background:#fff;
+      border: 1px solid rgb(244, 175, 175);
+      border-radius: 10px;
+      box-shadow: 0 10px 20px rgba(174, 13, 13, 0.3);
+      width: 400px;
+      height: 380px;
+      padding:30px;
+      margin: auto;
+      margin-top:70px;
+      margin-bottom: 150px;
+}
+
+.admin input{
+    padding: 10px 80px 10px 1px;
+    font-size:17px;
+    color: gray;
+    border-radius: 10px;
+    margin-left:40px;
+    margin-top: 10px;
+
+
+
+}
+
+.admin input,.btn1{
+    padding: 10px 20px 10px 10px;
+    color: #fff;  
+}
+.btn1{
+    color: #fff;
+    background: red;
+    border: none;
+    border-radius:10px;  
+}
+.btn1:hover{
+    color: #fff;
+    background:rgb(234, 8, 8);
+    border: none;
+    border-radius:10px;  
+}
