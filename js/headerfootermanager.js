@@ -73,8 +73,9 @@
                     </ul>
                   </li>
                 
-                  <li><a href="blogpage.html" title="Gallery">Blog</a></li>
-                  <li><a href="admin.html" title="Gallery">Admin</a></li>
+                  <li><a href="expert.html" title="Gallery">Experts</a></li>
+
+                 
 
                   <li><a href="gallery.html" title="Gallery">Our Gallery</a></li>
                   <li><a href="contact.html" title="Contact">Contact Us</a></li>
