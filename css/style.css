@@ -48,8 +48,9 @@ body {
   color: #5a5a5a;
 }
 
-img {
-  max-width: 100%;
+.imagee{
+  max-width: 130%;
+  margin-top: 60px;
 }
 
 a {

@@ -27,7 +27,7 @@ contactForm.addEventListener('submit',function(e){
         document.getElementById("name").value="";
         document.getElementById("email").value="";
         document.getElementById("phone").value="";
-        document.getElementById("message").value="";
+        document.getElementById("message").value="";    
         btn.value='Send Email';
         openPopup();
     
