@@ -4,7 +4,7 @@
         color: red;
         font-size: 20px;
         font-weight: bolder;
-        padding-top:8vh;
+        padding-top:5vh;
       }
       .lol {
         display: flex;
@@ -29,6 +29,18 @@
         
         
       }
+    
+      
+      /* Hardware Resp css */
+
+
+      .hardware_box img {
+        width: 380px;
+        height: 275px;
+      }
+
+      /* End HARDWARE CSS */
+
       .card:hover {
         border: 1px solid rgb(241, 192, 192);
         border-radius: 10px;
@@ -41,7 +53,7 @@
         font-weight: bolder;
       }
       .card-img-top {
-        width: 400px;
+        
         margin-top: 20px;
         padding-left: 30px;
         padding-right: 30px;
@@ -53,7 +65,7 @@
           font-weight: bolder;
           color: red;
           padding-top: 25px;
-          font-size: 17px;
+          font-size: 19px;
       }
       
       .onn{

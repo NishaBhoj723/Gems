@@ -67,8 +67,8 @@
                     <ul>
                       <li><a href="laptoprepair.html" title="Gallery">Laptop Repair</a></li>
 
-                      <li><a href="#" title="Services">CCTV Camera</a></li>
-                      <li><a href="#" title="Gallery">Hardware Component</a></li>
+                      <li><a href="cctv.html" title="Services">CCTV Camera</a></li>
+                      <li><a href="hardware.html" title="Gallery">Hardware Component</a></li>
                       <li><a href="#" title="Services">More</a></li>
                     </ul>
                   </li>

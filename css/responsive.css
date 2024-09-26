@@ -717,7 +717,37 @@ padding-bottom: 10px;
     margin-bottom: -40px;
 
 }
+
+.containerr {
+  width: 95%;
+  padding: 20px;
+}
+
+.stamp{
+  font-size: 1.3em;
+}
+
+.service-title {
+  font-size: 1.3em;
+}
+
+.service-description {
+  font-size: 1em;
+}
+.cctv_box img{
+  width: 353px;
+  height: 300px;
+}
+.cctv_section {
+ padding: 0px;
+}
  
+.laptop_section{
+  padding: 0px;
+}
+
+
+
 
     /*---- single Page ----- */
   header .container {
@@ -1034,16 +1064,10 @@ header.blog-banner {
 .blog_two_clm .blog-warp-1 {
     margin-bottom: 30px;
 }
- 
-
-
-
-
-}
-
 /* Mobile Vertical Layout: 488px 
 ===============================================================================*/
 @media only screen and (min-width: 488px) and (max-width: 767px) {
     /*---- Slider----- */
 
+}
 }

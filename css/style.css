@@ -142,7 +142,7 @@ a {
 section {
   background: #FFF;
   padding-top: 80px;
-  padding-bottom: 80px;
+  /* padding-bottom: 80px; */
 }
 
 .base-header {
@@ -1470,27 +1470,28 @@ margin-right: 15px;
 }
 
 .single-project-item {
-  background-image: url(../images/work_1.jpg);
+  background-image: url(../images/cable1.jpg);
+
 }
 
 .project-bg-2 {
-  background-image: url(../images/work_2.jpg);
+  background-image: url(../images/cable2.jpg);
 }
 
 .project-bg-3 {
-  background-image: url(../images/work_3.jpg);
+  background-image: url(../images/cablee1.jpg);
 }
 
 .project-bg-4 {
-  background-image: url(../images/work_4.jpg);
+  background-image: url(../images/cablee2.jpg);
 }
 
 .project-bg-5 {
-  background-image: url(../images/work_5.jpg);
+  background-image: url(../images/cablee3.jpg);
 }
 
 .project-bg-6 {
-  background-image: url(../images/work_6.jpg);
+  background-image: url(../images/cablee4.jpg);
 }
 
 .project-bg-7 {
